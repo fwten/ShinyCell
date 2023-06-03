@@ -4,6 +4,11 @@
   * splitting UMAPs based on certain metadata
   * using custom color scale limit
 
+**To install, make sure to run the following command:**
+``` r
+devtools::install_github("fwten/ShinyCell")
+```
+
 # ShinyCell package
 `ShinyCell` is a R package that allows users to create interactive Shiny-based 
 web applications to visualise single-cell data via (i) visualising cell 
@@ -114,7 +119,7 @@ if(length(newPkg)){install.packages(newPkg)}
 
 `ShinyCell` can then be installed from GitHub as follows:
 ``` r
-devtools::install_github("SGDDNB/ShinyCell")
+devtools::install_github("fwten/ShinyCell")
 ```
 
 
