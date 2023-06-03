@@ -1,3 +1,9 @@
+**This is a modified version of the original ShinyCell package.**
+
+**Added features:**
+  * splitting UMAPs based on certain metadata
+  * using custom color scale limit
+
 # ShinyCell package
 `ShinyCell` is a R package that allows users to create interactive Shiny-based 
 web applications to visualise single-cell data via (i) visualising cell 
