@@ -2197,7 +2197,7 @@ wrUIend <- function(footnote) {
              '   \n',
              'br(), \n',
              'p({f0}), \n',
-             'br(),br(),br(),br(),br() \n',
+             'br(),br(),br(),br(),br(), \n',
              'p(em("Running on a modified version of"), a("ShinyCell", \n', 
              '  href = "https://github.com/fwten/ShinyCell",target="_blank")), \n',
              '))) \n',
